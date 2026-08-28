@@ -1,1 +1,1 @@
-Hello class, my name is Cole, and I am a student at the University of Cincinnati.
+Hello class, my name is Cole Walton, and I am a junior student at the University of Cincinnati.
