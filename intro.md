@@ -1,0 +1,1 @@
+Hello class, my name is Cole, and I am a student at the University of Cincinnati.
